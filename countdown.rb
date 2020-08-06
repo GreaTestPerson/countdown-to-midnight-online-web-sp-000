@@ -1,5 +1,5 @@
 #write your code here
-
+x = 10
 def countdown(seconds_to_midnight)
   while seconds_to_midnight > 0
     puts "#{seconds_to_midnight} SECOND(S)!"
